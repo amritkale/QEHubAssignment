@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package mobiletestingassignment;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.After;
