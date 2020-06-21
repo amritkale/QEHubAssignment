@@ -44,7 +44,7 @@ public class Test1_Multitouch {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("automationName", "UiAutomator2");
         capabilities.setCapability("udid", "emulator-5554");
-        capabilities.setCapability("deviceName","Pixel 3 API 26");
+        capabilities.setCapability("deviceName","NexusAVD");
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("appPackage","com.the511plus.MultiTouchTester");
         capabilities.setCapability("appActivity","com.the511plus.MultiTouchTester.MultiTouchTester");

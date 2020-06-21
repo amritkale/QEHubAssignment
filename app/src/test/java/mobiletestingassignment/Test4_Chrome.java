@@ -34,7 +34,7 @@ import static io.appium.java_client.touch.WaitOptions.waitOptions;
 public class Test4_Chrome {
 
     AndroidDriver driver;
-    Dimension size;
+    
 
     @Before
     public void setUp() throws MalformedURLException {
