@@ -24,7 +24,7 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.touch.offset.PointOption;
 
-public class DialerTest {
+public class Test2_DialerTest {
 
     AndroidDriver<WebElement> driver;
     Dimension size;

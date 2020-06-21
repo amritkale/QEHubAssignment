@@ -31,7 +31,7 @@ import io.appium.java_client.touch.offset.PointOption;
 
 import static io.appium.java_client.touch.WaitOptions.waitOptions;
 
-public class Chrome1 {
+public class Test4_Chrome {
 
     AndroidDriver driver;
     Dimension size;

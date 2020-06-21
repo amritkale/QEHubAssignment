@@ -34,7 +34,7 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-public class MultiTouchTest {
+public class Test1_Multitouch {
 
     AndroidDriver<WebElement> driver;
     Dimension size;
